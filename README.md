@@ -1,6 +1,7 @@
 # CapitalFlow
 
-<img width="1473" height="711" alt="image" src="https://github.com/user-attachments/assets/1ec812b4-01d9-4346-9230-148c6be43ff0" />
+<img width="1473" height="711" alt="image" src="https://github.com/user-attachments/assets/fb908ffa-3318-4913-9d82-d0da89ba4eb6" />
+
 
 
 CapitalFlow is a Streamlit-based Treasury Operations prototype for handling Private Equity capital calls. The app combines PDF ingestion, notice extraction, validation against commitment and approved wire data, approval handling, and reporting views in one workflow.
