@@ -47,5 +47,5 @@ Please let us know if you require any additional details.
 
 Kind regards,
 Treasury Operations
-Calibrium AG
+[Company Name]
 """

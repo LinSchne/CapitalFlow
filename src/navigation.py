@@ -119,12 +119,8 @@ def render_sidebar() -> str:
         st.markdown(
             """
             <div class="sidebar-bottom-line">
-                <div class="sidebar-office-title">Private Investment Office</div>
-                <div class="sidebar-office-details">
-                    Calibrium AG · Beethovenstrasse 33<br>
-                    CH-8002 Zürich · +41 55 511 12 22
-                </div>
-                <div class="sidebar-case-study">Case Study - Linus Schneeberger</div>
+                <div class="sidebar-office-title">Treasury Operations</div>
+                <div class="sidebar-case-study">CapitalFlow · Demo</div>
             </div>
             """,
             unsafe_allow_html=True,

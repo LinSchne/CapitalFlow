@@ -11,14 +11,14 @@ BRANDING_DIR = BASE_DIR / "assets" / "branding"
 ### Branding asset lookup order for the sidebar logo.
 ###############################################################################
 LOGO_CANDIDATES = [
-    BRANDING_DIR / "calibrium_logo.svg",
-    BRANDING_DIR / "calibrium_logo_clean.png",
-    BRANDING_DIR / "calibrium_logo.png",
+    BRANDING_DIR / "placeholder_logo.svg",
+    BRANDING_DIR / "placeholder_logo_clean.png",
+    BRANDING_DIR / "placeholder_logo.png",
 ]
 
 ### Common file locations for persisted workflow data and managed workbooks.
 ###############################################################################
-LOGO_ICON = BRANDING_DIR / "calibrium_icon.png"
+LOGO_ICON = BRANDING_DIR / "placeholder_icon.png"
 WORKFLOW_STATE_PATH = BASE_DIR / "data" / "processed" / "workflow_state.json"
 UPLOADS_DIR = BASE_DIR / "data" / "processed" / "uploads"
 

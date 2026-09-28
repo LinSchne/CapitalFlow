@@ -52,7 +52,7 @@ def render_logo_html(path: Path, max_width_px: int = 250) -> str:
                 src="data:{mime_type};base64,{encoded}"
                 class="sidebar-logo-img"
                 style="max-width: {max_width_px}px;"
-                alt="Calibrium logo"
+                alt="Company logo placeholder"
             />
         </div>
     """

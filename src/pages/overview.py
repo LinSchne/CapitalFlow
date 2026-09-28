@@ -25,7 +25,7 @@ def render_overview_page() -> None:
     metrics = dashboard_metrics(dashboard_data)
 
     render_page_hero(
-        "Project Sentinel",
+        "CapitalFlow",
         "Private Equity capital call handling with extraction, controls, and approval workflow.",
         eyebrow="Treasury Operations Automation",
     )

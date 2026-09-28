@@ -9,7 +9,7 @@ from src.ui.layout import apply_global_styles
 ### Configure the overall Streamlit app shell before any UI is rendered.
 ###############################################################################
 st.set_page_config(
-    page_title="Project Sentinel",
+    page_title="CapitalFlow",
     page_icon=str(LOGO_ICON) if LOGO_ICON.exists() else "C",
     layout="wide",
     initial_sidebar_state="expanded",
